@@ -1,6 +1,6 @@
 # RestrauntManagmentSystem
 
-1. We will focus on the following set of requirements while designing the Restaurant Management System:
+1. We will focus on the following set of requirements while designing the Restraunt Management System:
 
 2. The restaurant will have different branches.
 
@@ -40,7 +40,7 @@ Cashier: To generate checks and process payments.
 
 System: Mainly responsible for sending notifications about table reservations, cancellations, etc.
 
-Here are the top use cases of the Restaurant Management System:
+Here are the top use cases of the Restraunt Management System:
 
 Add/Modify tables: To add, remove, or modify a table in the system.
 
